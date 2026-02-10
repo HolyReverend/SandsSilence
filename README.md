@@ -1,3 +1,20 @@
 # SandsSilence
-Pet-project. A linear 3D action-adventure featuring platforming mechanics and environmental puzzles in an Ancient Mesopotamian setting.
+//Pet-project. A linear 3D action-adventure featuring platforming mechanics and environmental puzzles in an Ancient Mesopotamian setting.
+//Линейная адвенчура от третьего лица с элементами платформинга и головоломками в сеттинге Древней Месопотамии.
 
+---===Дисклеймер===---
+
+Данный проект является личным петом. В нём я набиваю руку как писать правильный, чистый и высокопроизводительный код на Блюпринтах (в рамках возможного).
+Здесь я реализовываю различные не самые тривиальные системы. У меня нет цели как можно быстрее релизнуть игру. Это площадка для улучшения своих скилов.
+В данном проекте я фокусируюсь в первую очередь на реализации механик. Визуал на второй роле.
+
+
+
+---===Changelog===---
+
+--==ver0.0.0.1==--
+// StartHistory
+ - Motion Matching
+ - Мягкая камера
+ - Управление передано в Controller через Интерфейсы
+ - Переписан AnimBP на Интерфейсы и SafeThreath
