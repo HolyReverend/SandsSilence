@@ -30,10 +30,6 @@
 		{
 			"Name": "MoverIntegrations",
 			"Enabled": true
-		},
-		{
-			"Name": "HDRIBackdrop",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
